@@ -72,5 +72,5 @@ Display current weather conditions including temperature, humidity, wind speed, 
 ![WeatherApp Screenshot](screenshots/Screenshot3.png)
 
 ## Created by:
-- [Sai Venkat](https://github.com/naamsanamone) 
+- [sanam](https://github.com/naamsanamone) 
 
